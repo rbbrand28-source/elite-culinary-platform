@@ -109,13 +109,3 @@ function App() {
 }
 
 export default App;
-
-body {margin:0;font-family:Arial,sans-serif;background:#0b0b0b;color:#fff;}
-.full-screen {height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;text-align:center;padding:20px;}
-h1{font-size:48px;margin-bottom:20px;}
-p{color:#ccc;max-width:700px;margin:10px auto;}
-textarea {padding:10px;border-radius:8px;border:none;width:80%;max-width:600px;}
-.btn{padding:15px 40px;background:#fff;color:#000;text-decoration:none;border-radius:30px;font-weight:bold;margin-top:20px;cursor:pointer;border:none;}
-.feed{padding:40px;max-width:900px;margin:auto;}
-.feed-item{background:#111;margin:20px 0;padding:20px;border-radius:12px;border:1px solid #222;}
-.identity-score{margin-top:20px;font-size:16px;color:#b5b5b5;}
